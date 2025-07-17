@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-practica modulo 2 del PrepCourse
+prueba de crear repositotio y clonar desde github a mi computadora
